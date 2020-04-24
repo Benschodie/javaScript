@@ -2,10 +2,10 @@
 
 ## Learning Agenda
 
-###Arrays:
+- Arrays:
 
 #### Project
 
-###Objects
+- Objects
 
 #### Project
