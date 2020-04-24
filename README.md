@@ -1,11 +1,15 @@
 # javaScript
 
-## Learning Agenda
+## Arrays:
+- Array Methods Explained
+- map, reduce, filter, some etc.
+- Object Methods Explained
 
-- Arrays:
+Todo: "Api Endpoint schreiben"
 
 #### Project
+Random Wortwitz generator
 
-- Objects
+
 
 #### Project
