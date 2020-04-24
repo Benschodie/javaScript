@@ -1,2 +1,11 @@
 # javaScript
-Will Follow
+
+## Learning Agenda
+
+###Arrays:
+
+#### Project
+
+###Objects
+
+#### Project
